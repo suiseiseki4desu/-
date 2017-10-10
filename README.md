@@ -1,4 +1,3 @@
-
 Program task2;
  var
   a,b,c,d,max: real;
